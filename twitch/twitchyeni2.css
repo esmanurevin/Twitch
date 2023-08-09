@@ -865,6 +865,9 @@ button.button-footer {
     .kutu1 {
         width: 35%;
     }
+    .yazıdıv{
+        width:150px; height:23px; 
+    }
 
 }
 
@@ -924,8 +927,8 @@ button.button-footer {
     .yapanpanelveri {
         width: 30px;
     }
-/* 
-    .yapanpanelveri:hover {
+
+    /* .yapanpanelveri:hover {
 
         display: none;
     } */
@@ -1055,6 +1058,8 @@ button.button-footer {
     .kutu1 {
         width: 30%;
     }
+    
+
 }
 
 @media screen and (min-width:750px) and (max-width:980px) {
